@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoAssignment</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="later">Later</string>
+    <string name="today">Today</string>
+    <string name="pending_tasks">Pending Tasks</string>
+    <string name="description">Description</string>
+    <string name="month_date_dummy">Month, Date</string>
+</resources>
